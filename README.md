@@ -1,1 +1,1 @@
-# Kucharz-szefa
+python-telegram-bot==20.7
